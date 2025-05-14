@@ -1,4 +1,4 @@
-📍📍 VERİ GÖRSELLEŞTİRME
+📍📍 *VERİ GÖRSELLEŞTİRME*
 
 Bu repoda ilk olarak grafik türleri , avantaj / dezavantaj durumları , kullanım amacı ve veri görselleştirme kütüphanelerine ait araştırmalar bulunmaktadır.
 
